@@ -24,8 +24,10 @@ Created using a random walk over a probability distribution function
  <table>
 
 ## Paintbrush streak texture
-Created using a random walk over a probability distribution function
-Fourth example uses gaussian blurring horizontally (notice you can't see distinct rectangles, even when enlarged)
+Created using a random walk over a probability distribution function.
+
+Fourth example uses gaussian blurring horizontally (notice you can't see distinct rectangles, even when enlarged).
+
 To be used later as part of a larger piece
   <table>
     <tr>
